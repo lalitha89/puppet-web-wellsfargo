@@ -1,0 +1,18 @@
+{
+  "name": "lalitha-web",
+  "version": "0.1.0",
+  "author": "Lalitha Garimella <lalithasundari.garimella@gmail.com>",
+  "summary": "This is test module for services deployment",
+  "license": "Apache-2.0",
+  "source": "https://github.com/lalitha89/puppet-web-wellsfargo",
+  "project_page": "https://github.com/lalitha89/puppet-web-wellsfargo",
+  "issues_url": "https://github.com/lalitha89/puppet-web-wellsfargo/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
